@@ -1,0 +1,716 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 300,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "boundsBehavior",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 54,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 53,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 56,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 117,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "alarm",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 54,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 54,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 54,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 4494,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "tSeries",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "rSeries",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 76
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 4838,
+                        "errorMessage": "Instruction \"generate_PushBlockContext\" not implemented",
+                        "functionName": "onPaint",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 103,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 49,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 82,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 117,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 103,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 49,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 82,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 117,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "onTriggered",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 57,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 59,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 59,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 57,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 58,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 123,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 58,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 123,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 58,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 206
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 57,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 57,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 59,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 59,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 124,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 59,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 124,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 212
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 57,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 57,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "running",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot load property text from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/OperationDataPage.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name name",
+                        "functionName": "text",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name running",
+                        "functionName": "status",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 66,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name running",
+                        "functionName": "text",
+                        "line": 274
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot access value for name detail",
+                        "functionName": "text",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot access value for name detail",
+                        "functionName": "visible",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 280
+                    }
+                ],
+                "filePath": "D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/OperationDataPage.qml"
+            }
+        ],
+        "moduleId": "PumpStationHMI(appPumpStationHMI)"
+    }
+]

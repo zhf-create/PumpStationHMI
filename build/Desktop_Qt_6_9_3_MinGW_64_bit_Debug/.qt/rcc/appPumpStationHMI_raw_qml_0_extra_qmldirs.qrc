@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/PumpStationHMI/">
+    <file alias="qml/qmldir">D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/PumpStationHMI/qml/qmldir</file>
+    <file alias="qml/pages/qmldir">D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/PumpStationHMI/qml/pages/qmldir</file>
+    <file alias="qml/components/qmldir">D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/PumpStationHMI/qml/components/qmldir</file>
+  </qresource>
+</RCC>
+

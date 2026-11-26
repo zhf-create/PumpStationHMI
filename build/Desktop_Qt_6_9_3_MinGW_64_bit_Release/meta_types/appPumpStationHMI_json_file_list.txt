@@ -1,0 +1,5 @@
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/appPumpStationHMI_autogen/include/../VU2PALRVTW/moc_alarmmodel.cpp.json
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/appPumpStationHMI_autogen/include/../VU2PALRVTW/moc_datastore.cpp.json
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/appPumpStationHMI_autogen/include/../VU2PALRVTW/moc_devicemodel.cpp.json
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/appPumpStationHMI_autogen/include/../VU2PALRVTW/moc_pumpbackend.cpp.json
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/appPumpStationHMI_autogen/include/../VU2PALRVTW/moc_reportmodel.cpp.json

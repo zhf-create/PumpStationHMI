@@ -1,0 +1,1844 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 41,
+                        "durationMicroseconds": 485,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "loopRunning",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "showNode",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 73,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 73,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 72,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 73,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 73,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 71,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 71,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 71,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 70,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 125,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "alarm",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 71,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "value",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 3127,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 49,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 49,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "boundsBehavior",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 351,
+                        "errorMessage": "",
+                        "functionName": "baseScale",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 57,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "scaleFactor",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 109
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 110
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "acceptedModifiers",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 522,
+                        "errorMessage": "",
+                        "functionName": "onWheel",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "onWheel",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "xScale",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "yScale",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 140,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 128,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 140,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 126,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 182,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 157
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 153,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 182,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 126,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 132,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 167
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 126,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 144,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 67,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "flowing",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 132,
+                        "durationMicroseconds": 314,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 141,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 67,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "flowing",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 181,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 82,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 185,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 88,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 84,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 250,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 84,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 210,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 84,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 87,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "status",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 391,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 87,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "status",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 331,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 87,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "status",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 87,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "status",
+                        "line": 248
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 309,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 252
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 82,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 85,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "status",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 205,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 266
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 215,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "detail",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onClicked",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 291
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 285
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "topMargin",
+                        "line": 286
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "rightMargin",
+                        "line": 288
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 298
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 303
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 305
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 306
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 307
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 313
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 314
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 317
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 318
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 324
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 325
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 326
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 327
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "Cannot load property swatch from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml)::parent with type QQuickItem.",
+                        "functionName": "color",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 344
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property text from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 348
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 350
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "points",
+                        "line": 361
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 622,
+                        "errorMessage": "Cannot load property length from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml)::points with type QVariant.",
+                        "functionName": "pathString",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "posAt",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "Cannot load property length from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml)::points with type QVariant.",
+                        "functionName": "endAngleDeg",
+                        "line": 406
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "Cannot load property length from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml)::points with type QVariant.",
+                        "functionName": "arrowPos",
+                        "line": 414
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "Cannot access value for name flowing",
+                        "functionName": "running",
+                        "line": 370
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "loops",
+                        "line": 374
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name pipeColor",
+                        "functionName": "strokeColor",
+                        "line": 429
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "Cannot access value for name lineWidth",
+                        "functionName": "strokeWidth",
+                        "line": 430
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "capStyle",
+                        "line": 431
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "joinStyle",
+                        "line": 432
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 33,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "method pathString cannot be resolved.",
+                        "functionName": "path",
+                        "line": 434
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot access value for name flowing",
+                        "functionName": "visible",
+                        "line": 439
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "Cannot access value for name t",
+                        "functionName": "x",
+                        "line": 442
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name t",
+                        "functionName": "y",
+                        "line": 443
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name flowing",
+                        "functionName": "visible",
+                        "line": 446
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "Cannot access value for name t",
+                        "functionName": "x",
+                        "line": 449
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name t",
+                        "functionName": "y",
+                        "line": 450
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name flowing",
+                        "functionName": "visible",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "method arrowPos cannot be resolved.",
+                        "functionName": "x",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "method arrowPos cannot be resolved.",
+                        "functionName": "y",
+                        "line": 456
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "method endAngleDeg cannot be resolved.",
+                        "functionName": "rotation",
+                        "line": 457
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot access value for name pipeColor",
+                        "functionName": "fillColor",
+                        "line": 461
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot access value for name pipeColor",
+                        "functionName": "strokeColor",
+                        "line": 462
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot access value for name label",
+                        "functionName": "visible",
+                        "line": 470
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "method posAt cannot be resolved.",
+                        "functionName": "x",
+                        "line": 471
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "method posAt cannot be resolved.",
+                        "functionName": "y",
+                        "line": 472
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 473
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot load property label from QQuickItem::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 481
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 482
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 483
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 501
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 502
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 505
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 311,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 508
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 515
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "running",
+                        "line": 516
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 513
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 521
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 523
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 526
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 527
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 528
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 530
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "status",
+                        "line": 532
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 538
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 539
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 537
+                    }
+                ],
+                "filePath": "D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml"
+            }
+        ],
+        "moduleId": "PumpStationHMI(appPumpStationHMI)"
+    }
+]

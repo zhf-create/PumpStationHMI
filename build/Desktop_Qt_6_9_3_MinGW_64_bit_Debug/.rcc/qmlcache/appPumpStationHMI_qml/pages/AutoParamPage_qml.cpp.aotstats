@@ -1,0 +1,652 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 4656,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot load property text from (component in D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/AutoParamPage.qml)::parent with type QQuickItem.",
+                        "functionName": "text",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 38,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"horizontalAlignment\".",
+                        "functionName": "horizontalAlignment",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"editingFinished\".",
+                        "functionName": "onEditingFinished",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 35,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "color",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "contentWidth",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 152,
+                        "errorMessage": "",
+                        "functionName": "contentHeight",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 245,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "text",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 197,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "color",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 68,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 68,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 68,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 116,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 116,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 66,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 65,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 114,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 114,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 66,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 116,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 116,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 65,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 115,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 68,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 112,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 112,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 68,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 112,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 112,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 68,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 114,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 114,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 71,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "paramValue",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 121,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onCommit",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 121,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onCommit",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "color",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 38,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "cursorShape",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 259,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "onClicked",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 181,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "text",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 177
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 175
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 178
+                    }
+                ],
+                "filePath": "D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/AutoParamPage.qml"
+            }
+        ],
+        "moduleId": "PumpStationHMI(appPumpStationHMI)"
+    }
+]

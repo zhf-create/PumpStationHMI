@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/PumpStationHMI">D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/PumpStationHMI</file>
+
+  </qresource>
+</RCC>

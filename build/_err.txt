@@ -1,0 +1,4 @@
+QML debugging is enabled. Only use this in a safe environment.
+QQmlApplicationEngine failed to load component
+qrc:/qt/qml/PumpStationHMI/Main.qml:128:13: Type ProcessFlowPage unavailable
+qrc:/qt/qml/PumpStationHMI/pages/ProcessFlowPage.qml:67:21: EquipmentBox is not a type

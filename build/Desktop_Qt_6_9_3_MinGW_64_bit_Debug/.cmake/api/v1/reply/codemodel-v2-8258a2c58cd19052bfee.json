@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PumpStationHMI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-f1015869f6ae55b66fb2.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-7184d10d3c6381a3afdb.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-22e5aa57434a394c4110.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-6a9e7495d833eb7fd506.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-02faa62867d9ed285a92.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI-Debug-dfa85def8fb31e735b1b.json",
+					"name" : "appPumpStationHMI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_autogen-Debug-7f8908b3c09ba9ad835a.json",
+					"name" : "appPumpStationHMI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_autogen_timestamp_deps-Debug-5d61357d5d94283f02b8.json",
+					"name" : "appPumpStationHMI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_copy_qml-Debug-8dfd0a999bf65e41db31.json",
+					"name" : "appPumpStationHMI_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_copy_res-Debug-a32d99d3144fa895456c.json",
+					"name" : "appPumpStationHMI_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_generate_qmlls_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_generate_qmlls_ini_file-Debug-13a248d2d518b377fffd.json",
+					"name" : "appPumpStationHMI_generate_qmlls_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_qmlimportscan-Debug-c5e2d48091fa6c43a43b.json",
+					"name" : "appPumpStationHMI_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_qmllint-Debug-d30cae66d2b55cf306d6.json",
+					"name" : "appPumpStationHMI_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_qmllint_json-Debug-4f6a8f65a81056c2cc23.json",
+					"name" : "appPumpStationHMI_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_qmllint_module-Debug-0ce87894f8b35bcc42d8.json",
+					"name" : "appPumpStationHMI_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPumpStationHMI_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPumpStationHMI_qmltyperegistration-Debug-cfc596177cba1e9fb0a9.json",
+					"name" : "appPumpStationHMI_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appPumpStationHMI_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appPumpStationHMI_aotstats_target-Debug-532070e9587b6a5bf550.json",
+					"name" : "module_appPumpStationHMI_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug",
+		"source" : "D:/Qt/qtpro/bigProject1/PumpStationHMI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

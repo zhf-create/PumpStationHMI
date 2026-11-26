@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="resources/qtquickcontrols2.conf">D:/Qt/qtpro/bigProject1/PumpStationHMI/resources/qtquickcontrols2.conf</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,193 @@
+// ============================================================
+// DeviceControlPage.qml —— 设备控制画面
+// 对应文档 5.1~5.7（设备启停与手自动切换）、5.9（远程启停需二次确认）、
+//          4.x/5.11（循环水泵组 N+1 多泵协同，多泵站/多泵切换查看）。
+//
+// 知识点：
+//   - ListView + C++ QAbstractListModel（Backend.devices）：
+//     「模型在 C++、视图在 QML」，点击按钮即调用模型的 Q_INVOKABLE 方法，
+//     数据变化经 dataChanged 信号自动刷新界面，无需 QML 自己存数据。
+//   - 泵组切换：顶部 FilterChip 条调用 Backend.devices.filter = 组名，
+//     C++ 侧做「分组过滤」只返回该组设备，实现「切换不同水泵」。
+//   - 行内用 RowLayout 撑满整行：设备名/状态在左，操作组被弹性占位
+//     推到最右，避免所有栏目挤在左侧、右侧大片留白。
+//   - 阀门（key 含 "Valve"）显示「打开/关闭」，泵/风机显示「运行/停止」。
+// ============================================================
+import QtQuick 2.15
+import QtQuick.Controls 2.15
+import QtQuick.Layouts 1.15
+import Backend 1.0
+
+Item {
+    ColumnLayout {
+        anchors.fill: parent
+        anchors.margins: 8
+        spacing: 8
+
+        // ---- 顶部说明 ----
+        Row {
+            Layout.fillWidth: true
+            Layout.preferredHeight: 26
+            spacing: 16
+            Text {
+                text: "设备控制（共 " + Backend.devices.count + " 台）"
+                color: Theme.textTitle
+                font.pixelSize: 15
+                font.bold: true
+            }
+            Text {
+                text: "远程启停需二次确认（文档 5.9）"
+                color: Theme.textMuted
+                font.pixelSize: 12
+                anchors.verticalCenter: parent.verticalCenter
+            }
+        }
+
+        // ---- 泵组筛选条（对应「切换不同水泵」） ----
+        Row {
+            id: filterRow
+            Layout.fillWidth: true
+            Layout.preferredHeight: 30
+            spacing: 8
+
+            FilterChip {
+                text: "全部"
+                active: Backend.devices.filter === ""
+                onClicked: Backend.devices.filter = ""
+            }
+            // 知识点：Repeater 遍历 QStringList(groups)，modelData 即每个组名；
+            // 点哪个组 → 后端 setFilter → 列表只显示该组设备。
+            Repeater {
+                model: Backend.devices.groups
+                delegate: FilterChip {
+                    text: modelData
+                    active: Backend.devices.filter === modelData
+                    onClicked: Backend.devices.filter = modelData
+                }
+            }
+        }
+
+        // ---- 设备列表 ----
+        ListView {
+            id: deviceList
+            Layout.fillWidth: true
+            Layout.fillHeight: true
+            spacing: 8
+            clip: true
+            model: Backend.devices   // C++ 模型，角色：name/running/manual/key/group
+
+            delegate: Rectangle {
+                // 知识点：用 deviceList（id）取宽度，避免 ListView.view 未附着时为 null
+                width: deviceList.width
+                height: 56
+                radius: Theme.panelRadius
+                color: Theme.panel
+                border.color: Theme.panelBorder
+
+                // 阀门（key 含 "Valve"）用「打开/关闭」，泵/风机用「运行/停止」
+                readonly property bool isValve: key.indexOf("Valve") >= 0
+                // 循环泵才有「模拟故障」按钮（文档 5.5 水泵故障切备用泵）
+                readonly property bool isCyclePump: key.indexOf("cyclePump") >= 0
+
+                RowLayout {
+                    anchors.fill: parent
+                    anchors.leftMargin: 16
+                    anchors.rightMargin: 16
+                    spacing: 16
+
+                    // 设备名（来自 C++ 角色 name）
+                    Text {
+                        Layout.preferredWidth: 150
+                        text: name
+                        color: Theme.textTitle
+                        font.pixelSize: 15
+                        font.bold: true
+                    }
+
+                    // 三色状态灯（running 角色）
+                    StatusPill {
+                        status: running ? "run" : "stop"
+                        text: running ? (isValve ? "打开" : "运行") : (isValve ? "关闭" : "停止")
+                    }
+
+                    // 弹性占位：把右侧操作组推到最右
+                    Item { Layout.fillWidth: true }
+
+                    // 手动 / 自动（manual 角色）
+                    Text { text: "自动"; color: Theme.textLabel; font.pixelSize: 13 }
+                    Switch {
+                        checked: manual
+                        // 知识点：加 if (checked !== manual) 防止「checked 绑 manual、
+                        // 又写回 manual」形成双向绑定循环（QML 会报 Binding loop）。
+                        onCheckedChanged: if (checked !== manual) Backend.devices.setManual(index, checked)
+                    }
+                    Text { text: "手动"; color: Theme.textLabel; font.pixelSize: 13 }
+
+                    // 启/停按钮
+                    Button {
+                        text: running ? (isValve ? "关闭" : "停止") : (isValve ? "打开" : "启动")
+                        contentItem: Text {
+                            text: parent.text
+                            color: "#FFFFFF"
+                            font.pixelSize: 13
+                            horizontalAlignment: Text.AlignHCenter
+                            verticalAlignment: Text.AlignVCenter
+                        }
+                        background: Rectangle {
+                            radius: 4
+                            color: running ? Theme.fault : Theme.run
+                        }
+                        // 知识点：控制动作下沉到 C++ 模型，便于统一加权限/二次确认
+                        onClicked: Backend.devices.toggle(index)
+                    }
+
+                    // 模拟故障按钮（仅循环泵，文档 5.5 水泵故障→切备用泵+报警）
+                    Button {
+                        visible: isCyclePump
+                        text: "模拟故障"
+                        contentItem: Text {
+                            text: parent.text
+                            color: "#FFFFFF"
+                            font.pixelSize: 12
+                            horizontalAlignment: Text.AlignHCenter
+                            verticalAlignment: Text.AlignVCenter
+                        }
+                        background: Rectangle {
+                            radius: 4
+                            color: Theme.fault
+                        }
+                        // 知识点：触发后端 Q_INVOKABLE，模拟故障并自动切备用泵
+                        onClicked: Backend.simulatePumpFault(key)
+                    }
+                }
+            }
+        }
+    }
+
+    // ---------- 内联组件：泵组筛选胶囊 ----------
+    component FilterChip: Rectangle {
+        required property string text
+        required property bool active
+        signal clicked()
+
+        width: label.implicitWidth + 28
+        height: 30
+        radius: 15
+        // 知识点：active=true 高亮为青色，false 为深蓝，直观显示当前选中的泵组
+        color: active ? Theme.navActive : "#12365F"
+        border.color: active ? Theme.navActive : Theme.panelBorder
+        border.width: 1
+        Text {
+            id: label
+            anchors.centerIn: parent
+            text: parent.text
+            color: active ? "#06203A" : Theme.textValue
+            font.pixelSize: 13
+            font.bold: active
+        }
+        MouseArea {
+            anchors.fill: parent
+            onClicked: parent.clicked()
+        }
+    }
+}

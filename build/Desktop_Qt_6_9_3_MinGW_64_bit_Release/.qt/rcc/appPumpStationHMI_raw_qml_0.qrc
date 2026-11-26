@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/qt/qml/PumpStationHMI/">
+    <file alias="qml/Main.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/Main.qml</file>
+    <file alias="qml/Theme.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/Theme.qml</file>
+    <file alias="qml/pages/ProcessFlowPage.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ProcessFlowPage.qml</file>
+    <file alias="qml/pages/OperationDataPage.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/OperationDataPage.qml</file>
+    <file alias="qml/pages/DeviceControlPage.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/DeviceControlPage.qml</file>
+    <file alias="qml/pages/AutoParamPage.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/AutoParamPage.qml</file>
+    <file alias="qml/pages/ReportPage.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/ReportPage.qml</file>
+    <file alias="qml/pages/AlarmPage.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/pages/AlarmPage.qml</file>
+    <file alias="qml/components/StatusPill.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/components/StatusPill.qml</file>
+    <file alias="qml/components/ParamTile.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/components/ParamTile.qml</file>
+    <file alias="qml/components/EquipmentBox.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/components/EquipmentBox.qml</file>
+    <file alias="qml/components/EquipmentIcon.qml">D:/Qt/qtpro/bigProject1/PumpStationHMI/qml/components/EquipmentIcon.qml</file>
+  </qresource>
+</RCC>
+

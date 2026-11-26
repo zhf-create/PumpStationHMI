@@ -1,0 +1,16 @@
+-rootPath
+D:/Qt/qtpro/bigProject1/PumpStationHMI
+-cmake-output
+-output-file
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/.qt/qml_imports/appPumpStationHMI_conf.cmake
+-importPath
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/PumpStationHMI
+-importPath
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release
+-importPath
+D:/Qt/6.9.3/mingw_64/qml
+-qrcFiles
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/.qt/rcc/qmake_PumpStationHMI.qrc
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/.qt/rcc/appPumpStationHMI_raw_qml_0.qrc
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/.qt/rcc/appPumpStationHMI_raw_qml_0_extra_qmldirs.qrc
+D:/Qt/qtpro/bigProject1/PumpStationHMI/build/Desktop_Qt_6_9_3_MinGW_64_bit_Release/.qt/rcc/qtquickcontrols2_conf.qrc

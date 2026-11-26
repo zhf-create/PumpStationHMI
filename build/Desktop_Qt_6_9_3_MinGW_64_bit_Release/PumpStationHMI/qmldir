@@ -1,0 +1,17 @@
+module PumpStationHMI
+typeinfo appPumpStationHMI.qmltypes
+prefer :/qt/qml/PumpStationHMI/
+Main 1.0 qml/Main.qml
+singleton Theme 1.0 qml/Theme.qml
+ProcessFlowPage 1.0 qml/pages/ProcessFlowPage.qml
+OperationDataPage 1.0 qml/pages/OperationDataPage.qml
+DeviceControlPage 1.0 qml/pages/DeviceControlPage.qml
+AutoParamPage 1.0 qml/pages/AutoParamPage.qml
+ReportPage 1.0 qml/pages/ReportPage.qml
+AlarmPage 1.0 qml/pages/AlarmPage.qml
+StatusPill 1.0 qml/components/StatusPill.qml
+ParamTile 1.0 qml/components/ParamTile.qml
+EquipmentBox 1.0 qml/components/EquipmentBox.qml
+EquipmentIcon 1.0 qml/components/EquipmentIcon.qml
+depends QtQuick
+
